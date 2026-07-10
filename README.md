@@ -1,7 +1,6 @@
 # Terminal Dash
 
-A tiny [Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash)-style
-auto-runner that lives entirely in your terminal. Your cube runs to the right on
+A tiny side-scrolling auto-runner that lives entirely in your terminal. Your cube runs to the right on
 its own — you just decide *when* to jump. Clear the `▲` spikes, ride the `█`
 platforms and staircases, hop the `▀` floating stones over spike pits, and ride
 the `║` gravity portals that flip you onto the ceiling.
@@ -129,6 +128,4 @@ Release automatically (see `.github/workflows/release.yml`).
 
 ## Notes
 
-Terminal Dash is an original, from-scratch homage — its code and ASCII art are
-its own. It is **not affiliated with or endorsed by RobTop Games**; *Geometry
-Dash* is a trademark of its owner.
+Terminal Dash is an original game — all of its code and ASCII art are its own.

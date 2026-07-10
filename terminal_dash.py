@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Terminal Dash — a tiny Geometry-Dash-style auto-runner.
+Terminal Dash — a tiny side-scrolling terminal auto-runner.
 
   Run:   python3 terminal_dash.py
          python3 terminal_dash.py --difficulty Hard --seed 42   (skip menus,
